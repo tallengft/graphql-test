@@ -1,0 +1,27 @@
+{
+  "name": "graphql-test",
+  "version": "1.0.0",
+  "description": "# Install ```bash npm install graphql --save ```",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server-express": "^2.19.2",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0",
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallengft/graphql-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallengft/graphql-test/issues"
+  },
+  "homepage": "https://github.com/tallengft/graphql-test#readme"
+}
