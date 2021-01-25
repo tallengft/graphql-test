@@ -8,7 +8,9 @@
     "express": "^4.17.1",
     "express-graphql": "^0.12.0",
     "graphql": "^15.4.0",
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.13"
   },
   "devDependencies": {},
   "scripts": {

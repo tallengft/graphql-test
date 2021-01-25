@@ -26,3 +26,14 @@ npm install graphql-yoga
 
 # tutorials
 Taken tutorials from [here](https://graphql.org/code/#javascript)
+
+# Leader Board
+An Example API for a Leader Board
+```
+npm install
+docker run --name mongo --rm -p 27017:27017 -d mongo
+node leaderboard/app.js
+```
+
+# Services
+Usefull services, taken from [jhkersul/ExpressQL](https://github.com/jhkersul/ExpressQL)
